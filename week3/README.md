@@ -1,5 +1,5 @@
-Week 3 – Variational Autoencoder (VAE)
-
+**Week 3 – Variational Autoencoder (VAE)
+**
 Course
 
 CSET-419 – Introduction to Generative AI
