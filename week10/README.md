@@ -1,7 +1,11 @@
-Week 11 – GPT-2 Fine Tuning
+Week 10 – Sequence Generation using LSTM
 
-Objective: Fine-tune GPT-2 for real-world applications.
+Objective: To generate sequences using deep learning models.
 
-Tasks: • Generated baseline output • Fine-tuned GPT-2 on product reviews • Generated improved review outputs • Fine-tuned GPT-2 on recipe data
+Model: LSTM based sequence generator
 
-Result: Fine-tuned model generates domain-specific text like product reviews and recipes.
+Dataset: AI related text dataset
+
+Tasks Performed: • Tokenization • Sequence creation • Model training • Sequence generation
+
+Result: The model generates meaningful text sequences based on learned patterns.
